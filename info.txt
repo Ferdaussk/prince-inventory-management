@@ -1,0 +1,8 @@
+For Admin:
+Username: unguardable
+Password: admin
+Ezoic
+
+For User:
+Username: test
+Password: test
